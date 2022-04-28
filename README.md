@@ -3,8 +3,8 @@
 - 👀 I’m interested in mobile developer especially with flutter and i'm interested in web developer too 
 - 🌱 I’m currently learning React js
 - 👯 I’m looking to collaborate 
-- ⚡ I like chelsea football club and like One Piece anime
-- 
+- ⚡ Fun fact : I like chelsea football club and like One Piece anime
+
 
 <!-- - 👋 Hi, I’m @Yuummn
 - 👀 I’m interested in ...
