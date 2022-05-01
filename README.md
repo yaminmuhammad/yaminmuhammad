@@ -7,9 +7,9 @@
 
 
 <a href="">
-  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaminmuhammad&layout=compact&theme=radical&line_height=30"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaminmuhammad&layout=compact&theme=radical&line_height=30"/>
 </a>
 <a href="">
-  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=yaminmuhammad&count_private=true&show_icons=true&theme=radical&include_all_commits=true&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yaminmuhammad&count_private=true&show_icons=true&theme=radical&include_all_commits=true&layout=compact" />
 </a>
 <br/>
