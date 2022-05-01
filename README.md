@@ -3,7 +3,7 @@
 - 👀 I’m interested in web developer  
 - 🌱 I’m currently learning React js
 - 👯 I’m looking to collaborate 
-- ⚡ Fun fact : I like chelsea football club and like One Piece anime
+- ⚡ Fun fact : I like One Piece anime
 
 ### My Github Statistic
 <p align="left">
