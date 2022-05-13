@@ -1,7 +1,7 @@
 ### Hi there, I'm Yamin 👋
 
 - 👀 I’m interested in web developer  
-- 🌱 I’m currently learning React js
+- 🌱 I’m currently learning React 
 - 👯 I’m looking to collaborate 
 - ⚡ Fun fact : I like One Piece anime
 
