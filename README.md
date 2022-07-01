@@ -3,7 +3,7 @@
 - 👀 I’m interested in web developer  
 - 🌱 I’m currently learning React 
 - 👯 I’m looking to collaborate 
-- ⚡ Fun fact : I like One Piece anime
+- ⚡ Fun fact : I like fish but i don't like eat fish 
 
 ### My Github Statistic
 <p align="left">
