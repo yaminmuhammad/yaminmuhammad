@@ -8,6 +8,6 @@
 ### My Github Statistic
 <p align="left">
 <a href="https://github.com/yaminmuhammad">
-<img height="170em" width="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaminmuhammad&layout=compact&theme=radical&line_height=30"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaminmuhammad&layout=compact&theme=radical&line_height=30"/>
 </a>
 </p>
