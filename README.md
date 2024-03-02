@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Muhammad Yamin Nurzaman</h1>
-<h3 align="center">I'm a passionate Fullstack Developer from Indonesia</h3>
 <br><br>
 <p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=yaminmuhammad&theme=darkhub&column=3"><img src="https://github-profile-trophy.vercel.app/?username=yaminmuhammad&theme=darkhub&column=3" alt="yaminmuhammad" /></a> </p>
 
