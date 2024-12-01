@@ -10,5 +10,6 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaminmuhammad&theme=onedark" alt="yaminmuhammad" />
 </a>
 <br><br>
+<a href="https://app.daily.dev/yaminmuhammad"><img src="https://api.daily.dev/devcards/v2/tPYoM0u0i1z7LXnPL97by.png?r=lm3&type=default" width="356" alt="Muhammmad Yamin Nurzaman's Dev Card"/></a>
 
 
